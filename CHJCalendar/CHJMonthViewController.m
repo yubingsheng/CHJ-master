@@ -25,6 +25,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@"aaa");
     self.calendarView.delegate = self;
 }
 
